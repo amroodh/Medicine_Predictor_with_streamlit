@@ -6,6 +6,7 @@ This project is designed to predict medicine dosage and prescriptions based on i
 
 ## Table of Contents
 - [Forking the Repository](#forking-the-repository)
+- [Installing dependencies](#Installing-Dependencies)
 - [Setting Up the Environment](#setting-up-the-environment)
 - [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
@@ -25,6 +26,11 @@ Once you have forked the repository, you can clone it to your local machine:
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 ```
+## Installing Dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Setting Up the Environment:(if required)
 
 ```bash
