@@ -13,7 +13,7 @@ This project is designed to predict medicine dosage and prescriptions based on i
 
 ## Forking the Repository
 
-To fork the repository, follow these steps:
+To fork the repository, follow these steps:([forking steps](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
 
 1. Navigate to the repository page on GitHub.
 2. Click the "Fork" button at the top-right corner of the page.
