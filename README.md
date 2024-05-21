@@ -23,8 +23,8 @@ To fork the repository, follow these steps:([forking steps](https://docs.github.
 Once you have forked the repository, you can clone it to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+https://github.com/your-username/Medicine_Predictor_with_streamlit.git
+cd Medicine_Predictor_with_streamlit
 ```
 ## Installing Dependencies:
 ```bash
