@@ -1,0 +1,1017 @@
+Age,Sex,Asthma,Diabetes,High Blood Pressure,Heart Disease,Allergy,Runny Nose,Sneezing,Sore Throat,Cough,Fever,Headache,Congestion,Fatigue,Body Aches,No. of Days,Medicine,Dosage
+35,Male,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,7,"Paracetamol, Cough Syrup","2 pills, 3 times a day"
+45,Female,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,"Insulin, Ibuprofen",As prescribed
+50,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,10,"Inhaler, Aspirin","1 puff, as needed"
+28,Female,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,8,"Insulin, Paracetamol, Cough Drops",As prescribed
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Vitamin C","1 tablet, once daily"
+45,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Vitamin C, Cough Syrup","10 ml, 3 times a day"
+33,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotics,As prescribed
+40,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Aspirin,"1 tablet, once daily"
+55,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, twice a day"
+38,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+42,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Ibuprofen, Cough Drops",As prescribed
+48,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,6,Inhaler,"1 puff, as needed"
+36,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+49,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4,Vitamin C,As prescribed
+30,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Aspirin, Cough Drops",As prescribed
+53,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Ibuprofen,As prescribed
+44,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Inhaler, Paracetamol",As prescribed
+39,Female,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Antibiotics, Cough Syrup",As prescribed
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,5,,As prescribed
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,8,,As prescribed
+7,Male,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,7,"Paracetamol, Cough Syrup","2 pills, 3 times a day"
+45,Female,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,"Insulin, Ibuprofen",As prescribed
+30,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,10,"Inhaler, Aspirin","1 puff, as needed"
+28,Female,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,8,"Insulin, Paracetamol, Cough Drops",As prescribed
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Vitamin C","1 tablet, once daily"
+45,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Vitamin C, Cough Syrup","10 ml, 3 times a day"
+33,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotics,As prescribed
+40,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Aspirin,"1 tablet, once daily"
+55,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, twice a day"
+38,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+42,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Ibuprofen, Cough Drops",As prescribed
+48,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,6,Inhaler,"1 puff, as needed"
+36,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+49,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4,Vitamin C,As prescribed
+30,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Aspirin, Cough Drops",As prescribed
+53,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Ibuprofen,As prescribed
+44,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Inhaler, Paracetamol",As prescribed
+39,Female,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Antibiotics, Cough Syrup",As prescribed
+7,Male,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,7,"Paracetamol, Cough Syrup","2 pills, 3 times a day"
+45,Female,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,"Insulin, Ibuprofen",As prescribed
+30,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,10,"Inhaler, Aspirin","1 puff, as needed"
+28,Female,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,8,"Insulin, Paracetamol, Cough Drops",As prescribed
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Vitamin C","1 tablet, once daily"
+45,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Vitamin C, Cough Syrup","10 ml, 3 times a day"
+33,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotics,As prescribed
+40,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Aspirin,"1 tablet, once daily"
+55,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, twice a day"
+38,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+42,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Ibuprofen, Cough Drops",As prescribed
+48,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,6,Inhaler,"1 puff, as needed"
+36,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+49,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4,Vitamin C,As prescribed
+30,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Aspirin, Cough Drops",As prescribed
+53,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Ibuprofen,As prescribed
+44,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Inhaler, Paracetamol",As prescribed
+39,Female,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Antibiotics, Cough Syrup",As prescribed
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,,As prescribed,
+17,Male,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,3,Paracetamol,As prescribed
+42,Female,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,7,Antihistamine,1 tablet before sleep
+29,Male,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,5,Ibuprofen,"1 tablet, twice a day"
+35,Female,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,6,Antibiotics,As prescribed
+21,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,5,Cough syrup,"2 teaspoons, 3 times a day"
+48,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,Aspirin,"1 tablet, once daily"
+37,Male,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,7,Paracetamol,"2 tablets, 3 times a day"
+7,Male,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,7,"Paracetamol, Cough Syrup","2 pills, 3 times a day"
+45,Female,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,"Insulin, Ibuprofen",As prescribed
+30,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,10,"Inhaler, Aspirin","1 puff, as needed"
+28,Female,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,8,"Insulin, Paracetamol, Cough Drops",As prescribed
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Vitamin C","1 tablet, once daily"
+45,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Vitamin C, Cough Syrup","10 ml, 3 times a day"
+33,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotics,As prescribed
+40,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Aspirin,"1 tablet, once daily"
+55,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, twice a day"
+38,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+42,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Ibuprofen, Cough Drops",As prescribed
+48,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,6,Inhaler,"1 puff, as needed"
+36,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+49,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4,Vitamin C,As prescribed
+30,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Aspirin, Cough Drops",As prescribed
+53,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Ibuprofen,As prescribed
+44,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Inhaler, Paracetamol",As prescribed
+39,Female,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Antibiotics, Cough Syrup",As prescribed
+58,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,,,As prescribed
+17,Male,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,3,Paracetamol,As prescribed
+42,Female,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,7,Antihistamine,1 tablet before sleep
+29,Male,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,5,Ibuprofen,"1 tablet, twice a day"
+35,Female,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,6,Antibiotics,As prescribed
+21,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,5,Cough syrup,"2 teaspoons, 3 times a day"
+48,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,Aspirin,"1 tablet, once daily"
+37,Male,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,7,Paracetamol,"2 tablets, 3 times a day"
+32,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,6,Vitamin C,"1 tablet, once daily"
+61,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,5,Paracetamol,"1 tablet, twice a day"
+46,Female,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antihistamine,As prescribed
+12,Male,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,7,"Paracetamol, Cough Syrup","2 pills, 3 times a day"
+62,Female,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,5,"Insulin, Ibuprofen",As prescribed
+45,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,10,"Inhaler, Aspirin","1 puff, as needed"
+37,Female,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,8,"Insulin, Paracetamol, Cough Drops",As prescribed
+81,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Vitamin C","1 tablet, once daily"
+23,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Vitamin C, Cough Syrup","10 ml, 3 times a day"
+42,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotics,As prescribed
+54,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3,Aspirin,"1 tablet, once daily"
+31,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, twice a day"
+19,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+63,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Ibuprofen, Cough Drops",As prescribed
+57,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,6,Inhaler,"1 puff, as needed"
+47,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Vitamin C",As prescribed
+39,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,6,"Aspirin, Cough Drops",As prescribed
+72,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Ibuprofen,As prescribed
+30,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Inhaler, Paracetamol",As prescribed
+34,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,8,"Inhaler, Paracetamol","1 tablet, as needed"
+51,Female,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,7,"Paracetamol, Ibuprofen",As prescribed
+20,Male,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,"1 tablet, twice a day"
+62,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Inhaler, Paracetamol, Cough Syrup",As prescribed
+28,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,"Aspirin, Cough Syrup","2 teaspoons, 3 times a day"
+45,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,Antibiotics,As prescribed
+36,Male,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,4,Ibuprofen,"1 tablet, once daily"
+53,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Paracetamol","1 tablet, as needed"
+44,Male,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Ibuprofen","1 tablet, twice a day"
+27,Female,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,7,"Paracetamol, Cough Drops",As prescribed
+33,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,6,"Inhaler, Aspirin","1 tablet, twice a day"
+49,Female,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,5,"Paracetamol, Cough Syrup","10 ml, 3 times a day"
+55,Male,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,9,"Aspirin, Cough Syrup","2 tablets, 3 times a day"
+42,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Ibuprofen, Paracetamol","1 tablet, as needed"
+31,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,"Inhaler, Antihistamine","1 puff, as needed"
+47,Female,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,8,"Paracetamol, Vitamin C",As prescribed
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Antibiotics",As prescribed
+25,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,7,"Antihistamine, Cough Drops",As prescribed
+52,Male,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,"1 tablet, twice a day"
+39,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,6,"Paracetamol, Vitamin C","1 tablet, once daily"
+29,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4,Inhaler,"1 puff, as needed"
+57,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,9,"Aspirin, Cough Syrup","2 tablets, 3 times a day"
+22,Female,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,6,"Paracetamol, Ibuprofen",As prescribed
+38,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Inhaler, Antihistamine","1 puff, as needed"
+45,Female,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,7,"Paracetamol, Vitamin C",As prescribed
+63,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Aspirin, Antibiotics",As prescribed
+28,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,7,"Antihistamine, Cough Drops",As prescribed
+55,Male,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,"1 tablet, twice a day"
+42,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,6,"Paracetamol, Vitamin C","1 tablet, once daily"
+30,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4,Inhaler,"1 puff, as needed"
+46,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,8,"Aspirin, Cough Syrup","2 teaspoons, 3 times a day"
+36,Male,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,5,"Paracetamol, Ibuprofen",As prescribed
+54,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Inhaler, Antihistamine","1 puff, as needed"
+41,Male,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,10,"Paracetamol, Vitamin C",As prescribed
+29,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,7,"Inhaler, Aspirin, Antibiotics",As prescribed
+48,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,"1 tablet, twice a day"
+37,Female,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,"1 tablet, once daily"
+22,Male,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,6,Paracetamol,"2 tablets, as needed"
+35,Female,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Ibuprofen, Cough Syrup",As prescribed
+50,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,10,"Inhaler, Antibiotics",As prescribed
+65,Female,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,"Paracetamol, Vitamin C",As prescribed
+43,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Antihistamine","1 puff, as needed"
+28,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Ibuprofen",As prescribed
+37,Male,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,Aspirin,"1 tablet, once daily"
+59,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,8,"Inhaler, Antihistamine","1 tablet, twice a day"
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Paracetamol, Cough Syrup","10 ml, 3 times a day"
+33,Female,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,Ibuprofen,"1 tablet, as needed"
+30,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Paracetamol","1 tablet, twice a day"
+45,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,"Inhaler, Antibiotics",As prescribed
+22,Male,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,6,Paracetamol,"2 tablets, as needed"
+35,Female,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,"Ibuprofen, Cough Syrup",As prescribed
+50,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,10,"Inhaler, Antibiotics",As prescribed
+65,Female,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,"Paracetamol, Vitamin C",As prescribed
+43,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Antihistamine","1 puff, as needed"
+28,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,"Paracetamol, Ibuprofen",As prescribed
+37,Male,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,4,Aspirin,"1 tablet, once daily"
+59,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,8,"Inhaler, Antihistamine","1 tablet, twice a day"
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,"Paracetamol, Cough Syrup","10 ml, 3 times a day"
+33,Female,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7,Ibuprofen,"1 tablet, as needed"
+30,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,6,"Inhaler, Paracetamol","1 tablet, twice a day"
+45,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,"Inhaler, Antibiotics",As prescribed
+7,Male,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,3,Ibuprofen,0-1-0
+22,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+45,Male,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-0-1
+35,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+65,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-0-1
+10,Female,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,4,Cough Syrup,0-1-0
+58,Female,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-1
+29,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Antihistamine,0-1-0
+80,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,1-0-1
+42,Male,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Acetaminophen,0-0-1
+18,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+60,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,1/1/2001
+8,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-0-1
+34,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,0-1-0
+72,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+13,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Cough Syrup,0-1-0
+27,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Antihistamine,0-1-0
+55,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,0-1-1
+68,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-0-1
+5,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+38,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,1/1/2001
+23,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antihistamine,0-1-0
+48,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Ibuprofen,0-1-0
+31,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Cough Syrup,0-0-1
+75,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+16,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Antihistamine,0-1-0
+39,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+67,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+11,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Cough Syrup,0-0-1
+28,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Antihistamine,0-1-0
+50,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+14,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+33,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-0
+58,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,0-0-1
+30,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Acetaminophen,0-1-0
+57,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+36,Female,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+70,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-0-1
+9,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+44,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antihistamine,0-1-1
+21,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Antibiotic,0-0-1
+66,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+12,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-0
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-0-1
+26,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Cough Syrup,0-1-0
+61,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+15,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-0-1
+49,Male,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Acetaminophen,0-1-0
+32,Female,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Cough Syrup,0-1-0
+77,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antihistamine,0-0-1
+17,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+41,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+24,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Antihistamine,0-1-0
+53,Male,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Ibuprofen,0-0-1
+19,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Acetaminophen,0-1-0
+56,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+37,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+71,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-0-1
+6,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+46,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+20,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+63,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+14,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+36,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Ibuprofen,1/1/2001
+65,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+8,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antihistamine,0-1-0
+44,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-0-1
+31,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+59,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+22,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+37,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antihistamine,0-1-1
+47,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-0
+15,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+28,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Antibiotic,0-1-0
+54,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-1
+9,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+32,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+62,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+18,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-0
+43,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+10,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Acetaminophen,0-1-0
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+56,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antihistamine,0-1-0
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+35,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+61,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+19,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+45,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+13,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+27,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,0-1-0
+53,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,0-1-0
+21,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Ibuprofen,0-1-1
+39,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+16,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Acetaminophen,0-1-0
+41,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-0
+24,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+50,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+12,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Acetaminophen,0-1-1
+48,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Antibiotic,0-1-0
+57,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+23,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+34,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Cough Syrup,0-1-1
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+26,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Acetaminophen,0-1-0
+55,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+38,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Antibiotic,0-1-0
+11,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-1
+33,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Cough Syrup,0-1-1
+25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antihistamine,0-1-0
+42,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antibiotic,0-1-1
+20,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Ibuprofen,0-1-0
+69,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+7,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+51,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Cough Syrup,0-1-1
+31,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Antihistamine,0-1-0
+46,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+13,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+30,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+52,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-1
+16,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+40,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+55,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+36,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+61,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-1
+21,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-0
+44,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Acetaminophen,0-1-1
+10,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+49,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-0
+15,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+34,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+69,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-1
+11,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+33,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antihistamine,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+28,Female,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-0-1
+49,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+63,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,1-0-1
+17,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-0-1
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+57,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antihistamine,0-1-1
+22,Female,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-0-1
+45,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+38,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+27,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,1-0-1
+59,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-0-1
+12,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antihistamine,0-1-1
+43,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-0-1
+31,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+52,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-0-1
+19,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+41,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-0-1
+29,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+54,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antihistamine,0-1-1
+21,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-0-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Acetaminophen,0-1-0
+60,Female,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-0-1
+14,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+33,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-0
+56,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+16,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+36,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Ibuprofen,1/1/2001
+65,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+8,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antihistamine,0-1-0
+44,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-0-1
+31,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+59,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+22,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+37,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antihistamine,0-1-1
+47,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-0
+15,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+28,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,2,Antibiotic,0-1-0
+54,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-1
+9,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+32,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+62,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+18,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-0
+43,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+10,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Acetaminophen,0-1-0
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+56,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antihistamine,0-1-0
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+35,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+61,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+19,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+45,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+13,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+27,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antihistamine,0-1-0
+53,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,0-1-0
+21,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Ibuprofen,0-1-1
+39,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+16,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Acetaminophen,0-1-0
+41,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-0
+24,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+50,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+12,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Acetaminophen,0-1-1
+48,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Antibiotic,0-1-0
+57,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+23,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+34,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Cough Syrup,0-1-1
+60,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antihistamine,0-1-0
+26,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Acetaminophen,0-1-0
+55,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+38,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Antibiotic,0-1-0
+11,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-1
+33,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Cough Syrup,0-1-1
+25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antihistamine,0-1-0
+42,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antibiotic,0-1-1
+20,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Ibuprofen,0-1-0
+69,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+7,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+51,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Cough Syrup,0-1-1
+31,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Antihistamine,0-1-0
+46,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+13,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+30,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+52,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-1
+16,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+40,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+55,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+36,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+61,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-1
+21,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-0
+44,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Acetaminophen,0-1-1
+10,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+49,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-0
+15,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+34,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+69,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-1
+11,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+33,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antihistamine,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Cough Syrup,0-1-1
+31,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Antihistamine,0-1-0
+46,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+13,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+30,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+52,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-1
+16,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+40,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Cough Syrup,0-1-0
+55,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+36,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+61,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-1
+21,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-0
+44,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Acetaminophen,0-1-1
+10,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+49,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-0
+15,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+34,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+69,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-1
+11,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+33,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Antihistamine,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+47,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+14,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+32,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+43,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+9,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-1
+27,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+56,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Cough Syrup,0-1-1
+18,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Antibiotic,0-1-0
+39,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+19,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+36,Female,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+22,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+37,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Ibuprofen,0-1-1
+8,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Acetaminophen,0-1-0
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+64,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+31,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-1
+57,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Antihistamine,0-1-0
+26,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-1
+41,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Acetaminophen,0-1-0
+15,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-0
+49,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-1
+12,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+35,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+68,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+10,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Acetaminophen,0-1-0
+53,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Antibiotic,0-1-0
+32,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+46,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+20,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+38,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-0
+18,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Ibuprofen,0-1-1
+33,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-0
+57,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+47,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+14,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+32,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+43,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+9,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,4,Antihistamine,0-1-1
+36,Female,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+31,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-1
+27,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+64,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+39,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+32,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+56,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Cough Syrup,0-1-1
+37,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Ibuprofen,0-1-1
+18,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,3,Antibiotic,0-1-0
+19,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+22,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+8,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,9,Acetaminophen,0-1-0
+57,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,5,Antihistamine,0-1-0
+26,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-1
+41,Male,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Acetaminophen,0-1-0
+15,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-1
+29,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-0
+49,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-1
+12,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+35,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+68,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Antibiotic,0-1-0
+10,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Acetaminophen,0-1-0
+53,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-1
+17,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,8,Antibiotic,0-1-0
+46,Male,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-0
+20,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-1
+38,Male,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-0
+18,Female,No,No,No,No,No,No,No,No,No,Yes,Yes,No,Yes,Yes,7,Ibuprofen,0-1-1
+33,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-0
+57,Female,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+23,Male,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,5,Cough Syrup,0-1-0
+49,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-1
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+56,Female,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+42,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-1
+29,Female,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,0-1-0
+31,Male,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Ibuprofen,0-1-0
+50,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+38,Male,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+27,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-1
+35,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+46,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+23,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+39,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+32,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+47,Female,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+43,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+25,Female,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Acetaminophen,0-1-1
+29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+40,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+21,Female,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+33,Male,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+24,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+30,Male,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+55,Female,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+20,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+26,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+52,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+31,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+46,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Cough Syrup,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3,Antibiotic,0-1-1
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,2,Ibuprofen,0-1-0
+45,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+18,Male,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,no,4,Cough Syrup,0-1-0
+36,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,no,5,Acetaminophen,0-1-1
+63,Male,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,yes,8,Antibiotic,1-0-1
+45,Female,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,yes,6,Ibuprofen,0-1-0
+29,Male,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,no,3,Cough Syrup,0-0-1
+52,Female,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,no,7,Acetaminophen,0-1-1
+41,Male,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,yes,9,Antibiotic,0-1-0
+57,Female,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,yes,6,Cough Syrup,0-1-0
+22,Male,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,no,5,Ibuprofen,0-1-1
+39,Female,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,no,8,Acetaminophen,0-1-0
+45,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no,10,Cough Syrup,1/1/2001
+28,Female,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no,7,Antibiotic,0-1-0
+31,Male,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,yes,4,Ibuprofen,0-1-0
+56,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,9,Acetaminophen,1/1/2001
+34,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Cough Syrup,0-1-1
+49,Female,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Antibiotic,0-1-0
+37,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,1/1/2001
+44,Female,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,no,5,Acetaminophen,0-0-1
+28,Male,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Cough Syrup,0-1-0
+32,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Antibiotic,0-1-1
+41,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,yes,5,Ibuprofen,0-1-0
+54,Female,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,no,6,Acetaminophen,0-1-0
+27,Male,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,no,7,Cough Syrup,0-1-0
+49,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no,9,Antibiotic,0-1-1
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,no,8,Ibuprofen,0-1-0
+40,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,5,Cough Syrup,0-1-0
+24,Male,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,yes,6,Acetaminophen,0-1-1
+48,Female,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Antibiotic,0-1-1
+29,Male,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,0-1-0
+47,Female,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+42,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,yes,4,Cough Syrup,0-1-0
+31,Female,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,no,5,Antibiotic,0-1-1
+57,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,no,7,Ibuprofen,0-1-0
+36,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,no,8,Acetaminophen,0-1-1
+23,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,6,Cough Syrup,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+39,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,8,Ibuprofen,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,yes,9,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,10,Antibiotic,0-1-1
+38,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,0-1-0
+52,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+26,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,yes,6,Cough Syrup,0-1-0
+49,Female,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+33,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,4,Ibuprofen,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+29,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Cough Syrup,0-1-0
+35,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+48,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Ibuprofen,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+27,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,9,Cough Syrup,0-1-0
+45,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Ibuprofen,0-1-0
+43,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Acetaminophen,0-1-1
+38,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Cough Syrup,0-1-0
+51,Female,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Antibiotic,0-1-1
+32,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,0-1-0
+40,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,9,Acetaminophen,0-1-1
+25,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,yes,5,Cough Syrup,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Antibiotic,0-1-1
+36,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,yes,4,Cough Syrup,0-1-0
+31,Female,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,yes,5,Antibiotic,0-1-1
+57,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,yes,7,Ibuprofen,0-1-0
+36,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,yes,8,Acetaminophen,0-1-1
+23,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,6,Cough Syrup,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+39,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,yes,8,Ibuprofen,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,yes,9,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,10,Antibiotic,0-1-1
+38,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,0-1-0
+52,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+26,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,yes,6,Cough Syrup,0-1-0
+49,Female,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+33,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,4,Ibuprofen,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+29,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Cough Syrup,0-1-0
+35,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+48,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Ibuprofen,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Acetaminophen,0-1-1
+27,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,9,Cough Syrup,0-1-0
+45,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,yes,7,Antibiotic,0-1-1
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Ibuprofen,0-1-0
+43,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Acetaminophen,0-1-1
+38,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,5,Cough Syrup,0-1-0
+51,Female,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,6,Antibiotic,0-1-1
+32,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,7,Ibuprofen,0-1-0
+40,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,9,Acetaminophen,0-1-1
+25,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,yes,5,Cough Syrup,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,yes,8,Antibiotic,0-1-1
+36,Male,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4,Cough Syrup,0-1-0
+31,Female,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,5,Antibiotic,0-1-1
+57,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,7,Ibuprofen,0-1-0
+36,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+23,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+39,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,8,Ibuprofen,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,5,Acetaminophen,0-1-1
+28,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,9,Cough Syrup,0-1-0
+36,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10,Antibiotic,0-1-1
+38,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+52,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+26,Male,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Cough Syrup,0-1-0
+49,Female,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+33,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Ibuprofen,0-1-0
+44,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+29,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+35,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+48,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+34,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+27,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-0
+45,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-1
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Ibuprofen,0-1-0
+43,Female,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+38,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+51,Female,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-1
+32,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+40,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+25,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+47,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-1
+37,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+41,Female,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+52,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+34,Female,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+48,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,9,Cough Syrup,0-1-1
+30,Female,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+55,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-1
+28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+26,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+40,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+37,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+52,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+55,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+26,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+40,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+37,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+41,Female,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+52,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+34,Female,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+48,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,9,Cough Syrup,0-1-1
+30,Female,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+55,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-1
+28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+26,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+40,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+37,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+52,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+55,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+26,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+40,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+37,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Cough Syrup,0-1-0
+41,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+52,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-1
+34,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+48,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+55,Male,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+26,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+40,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+44,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+29,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+38,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+31,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+57,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,6,Acetaminophen,0-1-0
+42,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+25,Male,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+35,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+50,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+39,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+32,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+26,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+51,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+41,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-0
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+47,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,8,Cough Syrup,0-1-1
+30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+55,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+37,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-0
+39,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+49,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+22,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+46,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+31,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+45,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+24,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+38,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+56,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+23,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+42,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-1
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+47,Female,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+22,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+46,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+24,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+38,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+56,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+23,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+42,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Ibuprofen,0-1-0
+34,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Acetaminophen,0-1-1
+51,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-1
+37,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Ibuprofen,0-1-0
+42,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+47,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+32,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+58,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+33,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+49,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Antibiotic,0-1-1
+22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Acetaminophen,0-1-1
+46,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+31,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+55,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+38,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-1
+26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+43,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Antibiotic,0-1-0
+30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
+36,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-
+45,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+29,Female,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+38,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+31,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+57,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Antibiotic,0-1-0
+42,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+25,Male,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+35,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+50,Male,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-1
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+39,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+32,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+58,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+43,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+26,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+36,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Cough Syrup,0-1-1
+51,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+41,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+33,Female,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+47,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-0
+30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+55,Male,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+37,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+39,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+49,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+22,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-0
+46,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Acetaminophen,0-1-0
+31,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Cough Syrup,0-1-0
+45,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-1
+24,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+38,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Acetaminophen,0-1-0
+56,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Cough Syrup,0-1-0
+23,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Antibiotic,0-1-0
+42,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+29,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+47,Female,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+22,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+46,Female,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+24,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+38,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+56,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Antibiotic,0-1-0
+23,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8,Ibuprofen,0-1-0
+42,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,Acetaminophen,0-1-1
+27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,5,Cough Syrup,0-1-0
+35,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,Antibiotic,0-1-0
+50,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,7,Ibuprofen,0-1-0
