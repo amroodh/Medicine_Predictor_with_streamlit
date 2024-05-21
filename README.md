@@ -1,4 +1,4 @@
-# Medicine_Predictor_with_streamlit
+# Medicine_Predictor_with_Streamlit
 
 # Medicine Dosage and Prescription Predictor
 
