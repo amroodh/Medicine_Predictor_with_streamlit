@@ -24,3 +24,33 @@ Once you have forked the repository, you can clone it to your local machine:
 ```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
+## Setting Up the Environment:(if required)
+
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+```
+## Running the Project:
+```bash
+streamlit run app.py
+```
+## Project Structure
+```bash
+.
+├── app.py                     # Main application file
+├── Dataset.csv                # Dataset file used for training the models
+├── dosage_predictor.pkl       # Pre-trained dosage predictor model
+├── label_encoders.pkl         # Label encoders for categorical variables
+├── medicine_predictor.pkl     # Pre-trained medicine predictor model
+├── ml_model.py                # Script to train and evaluate models
+├── requirements.txt           # List of dependencies
+└── README.md                  # Project documentation
+```
+
+## License
+```bash
+
+Feel free to adjust any sections to better fit your project's specifics or additional information you would like to include.
+
+```
