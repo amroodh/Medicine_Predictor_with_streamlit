@@ -39,6 +39,7 @@ source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 ```
 ## Running the Project:
 ```bash
+python run ml_model.py # To generate new .pkl files for the ML model.
 streamlit run app.py
 ```
 ## Project Structure
